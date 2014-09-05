@@ -1,4 +1,4 @@
 dubmix
 ========
 
-Implementation of Ubituitous Decentralized Bitcoin Mixing
+Ubituitous Decentralized Bitcoin Mixing Implementation
