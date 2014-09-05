@@ -1,4 +1,4 @@
-coin-mix
+dubmix
 ========
 
-CoinMix implementation
+Implementation of Ubituitous Decentralized Bitcoin Mixing
